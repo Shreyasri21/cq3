@@ -1,0 +1,12 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+
+}
+
+.app button {
+    cursor: pointer;
+    padding: 1%;
+}
